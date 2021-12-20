@@ -1,0 +1,244 @@
+[
+    {
+        "kodlar": {
+            "Zira altyapı": {
+                "isim": "Zira altyapı",
+                "id": "YoDQyFweQA",
+                "desc": "Zira botun altyapısı",
+                "modules": [
+                    "Discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://glitch.com/~nostalgic-various-guide",
+                "komutlar_code": "https://glitch.com/~nostalgic-various-guide",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "Dm duyuru bot": {
+                "isim": "Dm duyuru bot",
+                "id": "t2TsWLUqZ6",
+                "desc": "Dm duyuru cekersiniz",
+                "modules": [
+                    "Discord.js v12"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://glitch.com/~gelismis-dm-duyuru-bot",
+                "komutlar_code": "https://glitch.com/~gelismis-dm-duyuru-bot",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "Vortex altyapı": {
+                "isim": "Vortex altyapı",
+                "id": "sWXoM4dqLl",
+                "desc": "Vortex altyapı",
+                "modules": [
+                    "Discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://glitch.com/~vortexaltyap-",
+                "komutlar_code": "https://glitch.com/~vortexaltyap-",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "Mee6 altyapı": {
+                "isim": "Mee6 altyapı",
+                "id": "MF12SV14VJ",
+                "desc": "Mee6 bot altyapısı",
+                "modules": [
+                    "Discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://glitch.com/~mee6-altyapi-dizzy",
+                "komutlar_code": "https://glitch.com/~mee6-altyapi-dizzy",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "Web panelli stat": {
+                "isim": "Web panelli stat",
+                "id": "ogkr9dre5y",
+                "desc": "Stat altyapı",
+                "modules": [
+                    "Discord.js "
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://glitch.com/edit/#!/maximusboys-st-at-web-asreaper",
+                "komutlar_code": "https://glitch.com/edit/#!/maximusboys-st-at-web-asreaper",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "Ticket bot": {
+                "isim": "Ticket bot",
+                "id": "tgJFj3lr43",
+                "desc": "Ticket bot",
+                "modules": [
+                    "Discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://glitch.com/~invited-sincere-vessel",
+                "komutlar_code": "https://glitch.com/~invited-sincere-vessel",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "300 komutlu web panelli bot": {
+                "isim": "300 komutlu web panelli bot",
+                "id": "Oa1nhg4yIi",
+                "desc": "300 komutlu web panelli bot",
+                "modules": [
+                    "Discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://tr.link/300kot",
+                "komutlar_code": "https://tr.link/300kot",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "Gelişmiş oda sistemi": {
+                "isim": "Gelişmiş oda sistemi",
+                "id": "RVvts1uzEL",
+                "desc": "Özel oda sistemli bot altyapısı",
+                "modules": [
+                    "Discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://tr.link/ozels2",
+                "komutlar_code": "https://tr.link/ozels2",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "Kod paylaşım botu": {
+                "isim": "Kod paylaşım botu",
+                "id": "TpgLckAB6I",
+                "desc": "Kod paylaşım botu",
+                "modules": [
+                    "Discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": " https://tr.link/codebo",
+                "komutlar_code": " https://tr.link/codebo",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "Gelişmiş kayıt botu": {
+                "isim": "Gelişmiş kayıt botu",
+                "id": "CqsxWzZ4IE",
+                "desc": "Kayıt botu",
+                "modules": [
+                    "Discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://tr.link/regisS",
+                "komutlar_code": "https://tr.link/regisS",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "J4j bot altyapısı": {
+                "isim": "J4j bot altyapısı",
+                "id": "ia3yAdWPX7",
+                "desc": "J4j altyapısı",
+                "modules": [
+                    "Discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://tr.link/J4JBO",
+                "komutlar_code": "https://tr.link/J4JBO",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "İnvite manager": {
+                "isim": "İnvite manager",
+                "id": "PeXnur3tdG",
+                "desc": "İnvite manager",
+                "modules": [
+                    "Discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://glitch.com/edit/#!/fynxcode-invitemanager?path=bot.js%3A1%3A0",
+                "komutlar_code": "https://glitch.com/edit/#!/fynxcode-invitemanager?path=bot.js%3A1%3A0",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "Sesli mesaj bot altyapısı": {
+                "isim": "Sesli mesaj bot altyapısı",
+                "id": "CXewfzCTez",
+                "desc": "Sesli mesaj",
+                "modules": [
+                    "Discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://bit.ly/kucuktasel-soylet-botu",
+                "komutlar_code": "https://bit.ly/kucuktasel-soylet-botu",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "Müzik botu": {
+                "isim": "Müzik botu",
+                "id": "mWoNogWLBo",
+                "desc": "Müzik botu",
+                "modules": [
+                    "Discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://bit.ly/kucuktasel-musicv1",
+                "komutlar_code": "https://bit.ly/kucuktasel-musicv1",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "V12 genel altyapı": {
+                "isim": "V12 genel altyapı",
+                "id": "Xh3vDGUTpc",
+                "desc": "V12 genel bot",
+                "modules": [
+                    "Discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://glitch.com/~v12-genel-bot",
+                "komutlar_code": "https://glitch.com/~v12-genel-bot",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "Hastebin site": {
+                "isim": "Hastebin site",
+                "id": "XQ3pG5Be6p",
+                "desc": "Hastebin site",
+                "modules": [
+                    "Discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://glitch.com/edit/#!/fynxcode-hastebin?path=server.js%3A65%3A0",
+                "komutlar_code": "https://glitch.com/edit/#!/fynxcode-hastebin?path=server.js%3A65%3A0",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            },
+            "V11 mcat altyapısı": {
+                "isim": "V11 mcat altyapısı",
+                "id": "yQs5i5L4Qv",
+                "desc": "Mcat altyapısı v11",
+                "modules": [
+                    "Discord.js"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/8b819a89369110fa87a6e3a8eba91017.png",
+                "main_code": "https://glitch.com/edit/#!/fynx-mcat-altyapi?path=bot.js%3A1%3A0",
+                "komutlar_code": "https://glitch.com/edit/#!/fynx-mcat-altyapi?path=bot.js%3A1%3A0",
+                "kod_rank": "hazir",
+                "k_adi": "Burak.",
+                "date": "11/23/2021"
+            }
+        }
+    }
+]

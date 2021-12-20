@@ -1,0 +1,48 @@
+[
+    {
+        "kodlar": {
+            "Toggle switch": {
+                "isim": "Toggle switch",
+                "id": "8fzmDrBlcr",
+                "desc": "Html toggle switch",
+                "modules": [
+                    "Modül gerek yok"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/a_3b532bcf5d5b8011db9e057fae9d96ec.png",
+                "main_code": "Html dosyası: \r\n<label class=\"toggle\"> \r\n    <input type=\"checkbox\">\r\n    <span class=\"ball\"></span> \r\n</label>",
+                "komutlar_code": "Css:\r\nlabel.toggle { \r\n    position: relative; \r\n    display: inline-block; \r\n    width: 80px; \r\n    height: 34px; \r\n} \r\n\r\ninput[type=\"checkbox\"] { \r\n    width: 0; \r\n    height: 0; \r\n    opacity: 0; \r\n} \r\n\r\n.ball { \r\n    position: absolute; \r\n    cursor: pointer; \r\n    top: 0; \r\n    left: 0; \r\n    right: 0; \r\n    bottom: 0; \r\n    background-color: #ccc; \r\n    transition: .3s; \r\n    border-radius: 25px; \r\n} \r\n\r\n.ball::before { \r\n    position: absolute; \r\n    content: ''; \r\n    height: 26px; \r\n    width: 26px; \r\n    left: 5px; \r\n    bottom: 4px; \r\n    background-color: #fff; \r\n    transition: .3s; \r\n    border-radius: 25px; \r\n} \r\n\r\ninput:checked + .ball { \r\n    background-color: #58d68d; \r\n} \r\n\r\ninput:checked + .ball:before { \r\n    transform: translateX(44px); \r\n}",
+                "kod_rank": "html",
+                "k_adi": "Burak.",
+                "date": "11/30/2021"
+            },
+            "Zart zort": {
+                "isim": "Zart zort",
+                "id": "6G4uQeKV0b",
+                "desc": "Zart zort",
+                "modules": [
+                    "Zart zort"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/bfc8b92d8a2d3ddb79f75d86d6123009.png",
+                "main_code": "Zart zurt zurna durum",
+                "komutlar_code": "Zort",
+                "kod_rank": "html",
+                "k_adi": "LUCIFER.",
+                "date": "12/17/2021"
+            },
+            "Animasyonlu yetenek çubuğu": {
+                "isim": "Animasyonlu yetenek çubuğu",
+                "id": "cPYMR3FYtx",
+                "desc": "Animasyonlu yetenek çubuğu ",
+                "modules": [
+                    "Html"
+                ],
+                "icon": "https://cdn.discordapp.com/avatars/592416134926696448/bfc8b92d8a2d3ddb79f75d86d6123009.png",
+                "main_code": "Html bölümü\r\n\r\n<div class=\"skill-bars\">\r\n    <div class=\"bar\">\r\n        <div class=\"info\"><span>HTML</span></div>\r\n        <div class=\"progress-line html\"><span></span></div>\r\n    </div>\r\n    <div class=\"bar\">\r\n        <div class=\"info\"><span>CSS</span></div>\r\n        <div class=\"progress-line css\"><span></span></div>\r\n    </div>\r\n    <div class=\"bar\">\r\n        <div class=\"info\"><span>Java Script</span></div>\r\n        <div class=\"progress-line js\"><span></span></div>\r\n    </div>\r\n    <div class=\"bar\">\r\n        <div class=\"info\"><span>PHP</span></div>\r\n        <div class=\"progress-line php\"><span></span></div>\r\n    </div>\r\n</div>",
+                "komutlar_code": "Css bölümü:\r\n\r\nhtml,body{\r\n    display: grid; height: 100%;\r\n    place-items: center;\r\n    background-color: #e7edfb;\r\n}\r\n.skill-bars{\r\n   padding: 25px 30px;\r\n   width: 600px; background: #fff;\r\n   box-shadow: 0px 5px 20px rgba(105, 35, 209, 0.233);\r\n   border-radius: 10px;  \r\n}\r\n.bar{ margin: 20px 0; }\r\n.bar:first-child{ margin-top: 0; }\r\n.info{ margin-bottom: 0; }\r\n.info span{\r\n    font-weight: 500;\r\n    font-size: 17px; opacity: 0;\r\n    animation: showText .5s 1s linear forwards;\r\n}\r\n@keyframes showText {\r\n    100%{\r\n        opacity: 1;\r\n    }\r\n}\r\n.progress-line{\r\n    height: 10px; width: 100%;\r\n    background: #e7edfb; position: relative;\r\n    transform: scaleX(0); transform-origin: left;\r\n    border-radius: 10px;\r\n    box-shadow: inset 0 1px 1px rgba(0,0,0,0.05),\r\n                0 1px rgba(255,255,255,.8);\r\n    animation: animate 1s cubic-bezier(1,0,0.5,1) forwards;\r\n}\r\n.progress-line span{\r\n    height: 100%; position: absolute;\r\n    border-radius: 10px;\r\n    transform: scaleX(0);\r\n    transform-origin: left;\r\n    background: #6923D0;\r\n    animation: animate 1s 1s cubic-bezier(1,0,0.5,1) forwards;\r\n}\r\n.progress-line span::before{\r\n    position: absolute; content: \"\";\r\n    top:-10px; right: 0; height: 0;\r\n    width: 0; opacity: 0;\r\n    border: 7px solid transparent;\r\n    border-bottom-width: 0;\r\n    border-right-width: 0;\r\n    border-top-color: #6923D0;\r\n    animation: showText2 .5s 1.5s linear forwards;\r\n}\r\n.progress-line span::after{\r\n    position: absolute; \r\n    top:-28px; right: 0; font-weight: 500;\r\n    background: #6923D0;\r\n    color:#fff; opacity: 0;\r\n    padding: 1.5px 8px;\r\n    font-size: 12px;\r\n    border-radius: 3px;\r\n    animation: showText2 .5s 1.5s linear forwards;\r\n}\r\n@keyframes animate {\r\n    100%{\r\n        transform: scaleX(1);\r\n    }    \r\n}\r\n.html span{ \r\n    width: 92%; \r\n}\r\n.css span{\r\n    width: 86%; \r\n}\r\n.js span{\r\n    width: 72%; \r\n}\r\n.php span{\r\n    width: 81%; \r\n}\r\n.html span::after{\r\n    content: \"92%\"; \r\n}\r\n.css span::after{\r\n    content: \"86%\"; \r\n}\r\n.js span::after{\r\n    content: \"72%\"; \r\n}\r\n.php span::after{\r\n    content: \"81%\"; \r\n}\r\n@keyframes showText2 {\r\n    100%{\r\n        opacity: 1;\r\n    }\r\n}\r\nNot: skil değererini dehistirmek için content: \"değer%\" yapınız",
+                "kod_rank": "html",
+                "k_adi": "LUCIFER.",
+                "date": "12/17/2021"
+            }
+        }
+    }
+]
