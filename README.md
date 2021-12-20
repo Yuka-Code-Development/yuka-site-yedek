@@ -1,2 +1,0 @@
-# yuka-site-yedek
-Yedek
